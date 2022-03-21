@@ -1,0 +1,18 @@
+安装vue脚手架
+npm install @vue/cli -g 3.x版本
+
+npm install vue-cli -g 2.x版本
+
+vue -V
+2.x版本
+npm install -g @vue/cli-init
+
+vue init webpack 项目名称
+
+	检验你的代码是否符合规范
+	? Use ESLint to lint your code?
+	项目单元测试
+	? Set up unit tests (Y/n)
+	自动化测试
+	? Setup e2e tests with Nightwatch?
+	使用npm还是yarn

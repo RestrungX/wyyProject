@@ -1,0 +1,16 @@
+echo "# wyyProject" >> README.md
+git init   （创建一个.git文件）
+git add README.md(创建一个readme)
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RestrungX/wyyProject.git
+git push -u origin main
+
+
+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(上传密钥)
+
+---hosts问题
+路径C:\Windows\System32\drivers\etc
+用管理员省份打开该文件
+输入cmd
+输入notepad hosts
